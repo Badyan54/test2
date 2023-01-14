@@ -1,0 +1,27 @@
+body{
+    background: url(../img/lll.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: 22px;
+    
+}
+div {
+   height: 10em;
+   position: relative }             
+div {
+   margin: 0;
+   position: absolute;
+    left: 50%;
+    margin-right: -50%;
+   top: 50%;                         
+   transform: translate(-50%, -50%);
+    text-align: center;
+}
+button{
+    height: 40px;
+    width: 65px;
+    border-radius: 22%;
+    background: LightSalmon;
+}
